@@ -1,4 +1,5 @@
 
+// Reverse the elemens in an array without using another array
 public class ArrayReverse {
     public static void main(String[] args) {
         int[] srcArray = {4,73,810,1,110};
